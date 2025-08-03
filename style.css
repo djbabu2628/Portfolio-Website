@@ -13,10 +13,10 @@ body, html{
     display:flex;
     justify-content:space-around;
     align-items: center;
-    height:05px;
+    height:5px;
     padding: 10px;
     list-style: none;
-    font-size: 10px;
+    font-size: 16px;
     border-bottom:0.2px solid black;
 }
 
@@ -28,7 +28,7 @@ body, html{
 
 #header-name{
     width:50%;
-    font-size:15px;
+    font-size:20px;
 }
 
 .main{
@@ -93,7 +93,7 @@ p{
     padding-left: 20px;
     font-family: Pacifico;
     font-family: Open Sans, Roboto, sans-serif;
-    font-size:15px;
+    font-size:16px;
     font-weight: 200;
 }
 
@@ -107,10 +107,10 @@ p{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 05px;
+    height: 5px;
     padding: 20px;
     list-style: none;
-    font-size: 10px;
+    font-size: 14px;
     width:50%;
 }
 
@@ -170,7 +170,7 @@ p{
     margin-left: 10px;
     padding-left: 20px;
     font-family: Open Sans, Roboto, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     padding-top:5px
 }
 
