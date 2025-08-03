@@ -15,9 +15,9 @@ body, html{
     justify-content:space-around;
     align-items: center;
     height:05px;
-    padding: 18px;
+    padding: 10px;
     list-style: none;
-    font-size: 10px;
+    font-size: 18px;
     border-bottom:0.2px solid black;
 }
 
