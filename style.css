@@ -16,7 +16,7 @@ body, html{
     height:50px;
     padding: 10px;
     list-style: none;
-    font-size: 16px;
+    font-size: 20px;
     border-bottom:0.2px solid black;
 }
 
@@ -28,7 +28,7 @@ body, html{
 
 #header-name{
     width:50%;
-    font-size:20px;
+    font-size:30px;
 }
 
 .main{
@@ -51,16 +51,16 @@ body, html{
 }
 
 
-.names{
+.para-about{
     font-family: Open Sans, Roboto, sans-serif;
-    font-size: 13px;
+    font-size: 20px;
     padding: 5px;
 }
 p{
   font-family: Pacifico;
   font-weight: 400;
   font-family: Open Sans, Roboto, sans-serif;
-  font-size:16px;
+  font-size:20px;
   padding:5px
   
 }
@@ -93,7 +93,7 @@ p{
     padding-left: 20px;
     font-family: Pacifico;
     font-family: Open Sans, Roboto, sans-serif;
-    font-size:16px;
+    font-size:20px;
     font-weight: 200;
 }
 
@@ -110,7 +110,7 @@ p{
     height: 50px;
     padding: 20px;
     list-style: none;
-    font-size: 14px;
+    font-size: 18px;
     width:50%;
 }
 
@@ -152,7 +152,7 @@ p{
 }
 
 .edu{
-    font-size: 10px;
+    font-size: 18px;
     padding:0;
 }
 
@@ -170,7 +170,7 @@ p{
     margin-left: 10px;
     padding-left: 20px;
     font-family: Open Sans, Roboto, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     padding-top:5px
 }
 
