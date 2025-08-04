@@ -187,14 +187,15 @@ p{
 .my-img{
     position:fixed;
     right:10px;
-    bottom:1    px;
-    top:1px;
+    bottom:2px;
+    /* top:20px; */
     z-index: 1;
+    box-shadow: 60px 5px 5px gray;
 }
 
 .my-img img{
     width: auto;
-    height: 60vw;
+    height: 40vw;
     border-radius: 50%;
-    box-shadow: 0 0 0 0 0 #0000;
 }
+
