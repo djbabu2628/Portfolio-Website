@@ -45,7 +45,7 @@ body, html{
 .wel{
 
     border-left:1px solid #444;
-    padding-left: 5px;
+    padding-left: 30px;
     margin-left: 10px;
     width: 70vw;
 }
@@ -82,7 +82,7 @@ p{
 .wel-tabs{
 
     border-left:1px solid #444;
-    padding-left: 5px;
+    padding-left: 30px;
     margin-left: 10px;
     width:48vw;
     text-align: justify;
@@ -199,3 +199,36 @@ p{
     border-radius: 50%;
 }
 
+.btn{
+    background-color: black;
+    border: 2px solid whitesmoke;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn-div{
+    padding: 10px;
+}
+
+#btn-div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+    padding: 10px;
+    list-style: none;
+    font-size: 20px;
+    width:50%;
+}
