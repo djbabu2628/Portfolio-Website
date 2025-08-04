@@ -5,8 +5,7 @@
 
 body, html{
     background-image:url(bg.png);
-    background-size:contain;
-    /* background-repeat: no-repeat; */
+    background-size:contain; 
 }
 
 .header-links ul{
@@ -77,6 +76,7 @@ p{
     height: 90vh;
     width:100%;
     border:none;
+    background: transparent;
 }
 
 .wel-tabs{
