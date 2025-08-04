@@ -5,7 +5,7 @@
 
 body, html{
     background-image:url(bg.png);
-    background-size:80%;
+    background-size:contain;
     /* background-repeat: no-repeat; */
 }
 
@@ -152,7 +152,7 @@ p{
 }
 
 .edu{
-    font-size: 20px;
+    font-size: 22px;
     padding:0;
 }
 
@@ -182,4 +182,19 @@ p{
     padding: 5px;
     font-weight: 600;
     margin-left: 10px;
+}
+
+.my-img{
+    position:fixed;
+    right:10px;
+    bottom:1    px;
+    top:1px;
+    z-index: 1;
+}
+
+.my-img img{
+    width: auto;
+    height: 60vw;
+    border-radius: 50%;
+    box-shadow: 0 0 0 0 0 #0000;
 }
