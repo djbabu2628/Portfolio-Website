@@ -187,7 +187,6 @@ p{
 
 .my-img{
     position:fixed;
-    right:1px;
     bottom:2px;
     /* top:20px; */
     z-index: 1;
